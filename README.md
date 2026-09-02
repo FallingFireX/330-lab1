@@ -28,4 +28,5 @@ means (hint: find “endian” in the F4 controller reference manual)?
 24. In your lab report answer the question regarding which of the demo programs 
 did an interesting thing when you pressed the “User” button once a second 
 repeatedly
+
 #3 
