@@ -39,14 +39,19 @@ purchased, along with their part numbers and listed price.**
 **How much flash memory is provided on the F4? How much RAM?**
 - 1024 bits of flash
 - 192 kilobytes of RAM
+
 **What is the maximum clock speed the processor can run at?**
 - 168MHz
+
 **What does LQFP stand for?**
 - Low-profile Quad Flat Package
+
 **How many pins are on this chip?**
 `80
+
 **Find and screenshot the “memory map” of this processor (look in the ARM Cortex M4 
 Controller Chip Data Sheet).**
+
 
 **Is this processor big or little “endian”, and explain what the endianness of this processor 
 means (hint: find “endian” in the F4 controller reference manual)?**
@@ -57,8 +62,10 @@ most significant."
 
 **Find and screenshot the “core registers” of this processor.**
 
+
 **How many “general purpose registers” are there (look at same figure as 19above)**
 -13
+
 **Which of the demo programs 
 did an interesting thing when you pressed the “User” button once a second 
 repeatedly**
